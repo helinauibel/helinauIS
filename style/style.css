@@ -1,0 +1,22 @@
+
+    .small-image {
+        width: 150px !important;
+        height: auto !important;
+    }
+    .listHeading {
+        font-weight: bold !important;
+        font-size: normal !important;
+    }
+
+    body {
+        font-family: Arial, Helvetica, sans-serif !important;
+        font-size: 15px !important;
+        color: black !important;
+        background-color: rgb(215, 169, 171) !important;
+    }
+    .listHeading ul {
+        list-style-type: disc !important; 
+    }
+    .listHeading ul li {
+        font-weight: normal !important;
+    }
